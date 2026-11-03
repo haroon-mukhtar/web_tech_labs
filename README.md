@@ -11,9 +11,7 @@ This repository has all my Web Technologies lab work.
 | Lab | Topic | Folder |
 |-----|-------|--------|
 | Lab 01 | JavaScript basics (functions, bitwise operators, Math object, array methods, pagination) | `lab01/` |
-| Lab 02 | Coming soon | `lab02/` |
 
-I will add more labs here as we do them.
 
 ## How to run
 
@@ -32,7 +30,6 @@ For HTML/CSS labs, just open the `.html` file in your browser.
 web-tech-labs/
 ├── lab01/
 │   └── lab01.js
-├── lab02/
 └── README.md
 ```
 
